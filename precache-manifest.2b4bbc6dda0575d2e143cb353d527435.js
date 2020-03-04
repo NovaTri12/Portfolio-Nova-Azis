@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f76c6297482674f746cdc0809e30d491",
+    "revision": "725ed2c6f6f39931adf5480592b15574",
     "url": "/Portfolio-Nova-Azis/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio-Nova-Azis/static/js/2.5f57aef4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eedd1e2296c9dbac067a",
-    "url": "/Portfolio-Nova-Azis/static/js/main.d7e4de09.chunk.js"
+    "revision": "09c911dde625c1dc1cb9",
+    "url": "/Portfolio-Nova-Azis/static/js/main.cfc1fdf8.chunk.js"
   },
   {
     "revision": "14c006c5d84d4382e881",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Portfolio-Nova-Azis/precache-manifest.774028f5fa18a383d9a0c6f3c2f66c9c.js"
+  "/Portfolio-Nova-Azis/precache-manifest.c5f29a22fab38d9b22d3fd9c6bc191b3.js"
 );
 
 self.addEventListener('message', (event) => {

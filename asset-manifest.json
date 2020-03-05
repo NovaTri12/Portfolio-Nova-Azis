@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/Portfolio-Nova-Azis/static/js/main.ce3b243e.chunk.js",
-    "main.js.map": "/Portfolio-Nova-Azis/static/js/main.ce3b243e.chunk.js.map",
+    "main.js": "/Portfolio-Nova-Azis/static/js/main.b245d2af.chunk.js",
+    "main.js.map": "/Portfolio-Nova-Azis/static/js/main.b245d2af.chunk.js.map",
     "runtime-main.js": "/Portfolio-Nova-Azis/static/js/runtime-main.df18285a.js",
     "runtime-main.js.map": "/Portfolio-Nova-Azis/static/js/runtime-main.df18285a.js.map",
     "static/js/2.5f57aef4.chunk.js": "/Portfolio-Nova-Azis/static/js/2.5f57aef4.chunk.js",
     "static/js/2.5f57aef4.chunk.js.map": "/Portfolio-Nova-Azis/static/js/2.5f57aef4.chunk.js.map",
     "index.html": "/Portfolio-Nova-Azis/index.html",
-    "precache-manifest.6558c6e08c73f6a06456c5bc7525a44b.js": "/Portfolio-Nova-Azis/precache-manifest.6558c6e08c73f6a06456c5bc7525a44b.js",
+    "precache-manifest.ece8bdaa40413d8e94b47799da95c1d8.js": "/Portfolio-Nova-Azis/precache-manifest.ece8bdaa40413d8e94b47799da95c1d8.js",
     "service-worker.js": "/Portfolio-Nova-Azis/service-worker.js",
     "static/js/2.5f57aef4.chunk.js.LICENSE.txt": "/Portfolio-Nova-Azis/static/js/2.5f57aef4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.df18285a.js",
     "static/js/2.5f57aef4.chunk.js",
-    "static/js/main.ce3b243e.chunk.js"
+    "static/js/main.b245d2af.chunk.js"
   ]
 }
